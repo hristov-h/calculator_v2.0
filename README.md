@@ -1,4 +1,3 @@
-# calculator_v2.0
 # Calculator v2.0 - More traditional calculator 
 
 ## Introduction
